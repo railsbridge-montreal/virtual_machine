@@ -1,7 +1,7 @@
 # Steps used to create the VM
 
 The remaining configuration steps for participants are in the file
-[PARTICIPANTS.md](./PARTICIPANTS.md).
+[PARTICIPANTS.md](/railsbridge-montreal/virtual_machine/blob/master/PARTICIPANTS.md).
 
 ## Notes
 

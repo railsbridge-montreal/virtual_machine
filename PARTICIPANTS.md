@@ -10,8 +10,8 @@ for the RailsBridge.
 
 Here are your credentials on the Virtual Machine
 
-Username: railsbridge
-Password: ruby rocks
+- Username: railsbridge
+- Password: ruby rocks
 
 ## Configure git
 
