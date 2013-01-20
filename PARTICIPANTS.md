@@ -6,6 +6,24 @@ If you haven't done so yet, [install VirtualBox](https://www.virtualbox.org/wiki
 You only need to install the proper package in the section "VirtualBox platform packages"
 for the RailsBridge.
 
+Start VirtualBox, then go into the settings
+
+## Prepare to run the VM
+
+### Network
+
+- Start VirtualBox
+- Open Preferences / Network
+- Add a host-only network
+- Edit it, and change the IPv4 address to `10.10.10.1`
+
+### Import the VM
+
+- Download the VM
+- Double-click the .ova file to import it to VirtualBox
+- Accept the defaults
+- Start your VM!
+
 ## Your Virtual Machine
 
 Here are your credentials on the Virtual Machine
@@ -48,5 +66,6 @@ the name.
 
 ## Terminal
 
-- New tab: Ctrl-Shift-T
+- Copy / Paste: Shift-Ctrl-C and Shift-Ctrl-V
+- New tab: Shift-Ctrl-T
 - Clear the window, run the command "clear"
