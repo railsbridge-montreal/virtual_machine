@@ -18,6 +18,14 @@ The configuration steps for participants are in the file
   - In the port mappings for 3000, 4000 and 5000 in 1st network adapter.
     No need to specify IP addresses.
 - Install Ubuntu Desktop on it
+  - Choose english keyboard
+  - Choose login automatically
+- Install the VirtualBox Guest Additions
+- Remove all visual animations
+  - To do this, install "CompizConfig Settings Manager"
+- Add french keyboard layout
+- Install Chrome
+- Install Komodo Edit
 
 ## Install the dev tools
 
