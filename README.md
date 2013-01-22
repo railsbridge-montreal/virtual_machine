@@ -9,6 +9,8 @@ The configuration steps for participants are in the file
 - Password: ruby rocks
 - Hostname: rbvm
 
+Available [here](http://files.rocksolidrails.com/railsbridge/UbuntuRailsBridge32.ova)
+
 ## Install Ubuntu
 
 - Create new VM with

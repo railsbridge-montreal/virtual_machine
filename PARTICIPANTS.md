@@ -1,5 +1,8 @@
 # Participant Configuration
 
+Download the virtual machine [here](http://files.rocksolidrails.com/railsbridge/UbuntuRailsBridge32.ova),
+in advance. If you haven't, ask the teacher if he has it on a USB drive.
+
 ## Install VirtualBox
 
 If you haven't done so yet, [install VirtualBox](https://www.virtualbox.org/wiki/Downloads).
